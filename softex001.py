@@ -17,6 +17,6 @@ if(faltas_aluno > 3):
 
 
 if(media_aluno >= 7):
-    print("Parabéns," + nome_aluno + "você foi aprovado!")
+    print("Parabéns, " + nome_aluno + " você foi aprovado!")
 
 

@@ -8,3 +8,5 @@ def calculadora(n1, n2, operacao):
     elif operacao == 'divisao':
       return  n1 / n2 
     else: return 0
+
+print(calculadora(1,2,'soma'))
